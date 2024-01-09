@@ -1,0 +1,4 @@
+Project Description:
+This project provides a RESTful API for managing product information in a MongoDB database. It follows the principles of a typical CRUD application, allowing users to perform basic operations on products. The structure adheres to the Spring Boot framework, facilitating the development of scalable and maintainable applications. The MongoDB repository (ProductRepository) integrates seamlessly with the Spring Data MongoDB abstraction, simplifying database interactions. The Lombok annotations in the entity class reduce boilerplate code, enhancing code readability and maintainability.
+
+In summary, this project serves as a foundation for building a product management system with basic CRUD functionality using Spring Boot and MongoDB. It can be extended and customized to meet specific business requirements for product management.

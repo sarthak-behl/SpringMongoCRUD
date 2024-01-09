@@ -1,0 +1,5 @@
+spring:
+  data:
+    mongodb:
+      uri: mongodb+srv://sambehl88:vexwdDy6rAWjtfVL@cluster0.8ms00ci.mongodb.net/?retryWrites=true&w=majority
+      database: productdb
